@@ -1,0 +1,12 @@
+
+{
+	"type":"minecraft:smelting",
+	"ingredient":[
+	{
+		"item":"minecraft:chipped_anvil"
+	}
+	],
+	"result":"minecraft:damaged_anvil",
+	"cookingtime":200,
+	"experience":10
+}
