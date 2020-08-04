@@ -12,3 +12,38 @@ You can BBQ lots of unexpected items on the campfire after installed this data p
 2.Tpye '/reload' in the game or 'reload' in the cmd.
 3.If you are op , you can type '/datapacks list' to check if it is been installed correctly.
 
+If you still don't know , please serch 'how to install minecraft data pack' on google.
+
+## data constuction 
+
+=============================================================
+
+├──README.MD
+├──README_zh.MD
+├──release
+    ├──logs.md
+    ├──CampfireBBQ_V1.0  //here is where u clone from.
+        ├──pack.mcmeta
+        ├──data
+            ├──campfirebbq
+                ├──recipes
+                    ├──stonecutting
+                    |   ├──bone.json
+                    ├──campfire
+                        ├──irongold.json
+                        ├──sweetberries.json
+                        ├──sugercane.json
+                        ├──rottenflesh.json
+                        ├──pumpkin.json
+                        ├──wheat.json
+                        ├──sticktorch.json
+                        ├──poppy.json
+                        ├──coal.json
+                        ├──peony.json
+                        ├──lilac.json
+                        ├──rosebush.json
+                        
+==============================================================
+
+
+
